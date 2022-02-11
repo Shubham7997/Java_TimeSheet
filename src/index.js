@@ -8,7 +8,7 @@ import LoginScreen from './Pages/LoginScreen';
 
 ReactDOM.render(
   <React.StrictMode>
-    <LoginScreen/>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
