@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T13:59:38.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="16.4.3" etag="g5fx21WzhNLuqn-Ft9xI" type="github"><diagram id="xnnhH7ihNPHG_zdihqJI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-22T14:11:21.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BeFO58Lpsi8wWlwBZaJz" version="16.4.3" type="github">
+  <diagram id="xnnhH7ihNPHG_zdihqJI" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-1" target="rzNtCp98UngA0Fu8ecL7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-2" value="Login Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="182.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-4" target="rzNtCp98UngA0Fu8ecL7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.017;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-4" target="rzNtCp98UngA0Fu8ecL7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-4" target="rzNtCp98UngA0Fu8ecL7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="145" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-5" value="Role based Authentication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" target="rzNtCp98UngA0Fu8ecL7-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-8" value="User Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="95" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-9" target="rzNtCp98UngA0Fu8ecL7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-10" value="Allowance Dashboard&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-13" target="rzNtCp98UngA0Fu8ecL7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-14" value="Report &amp;amp; User DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rzNtCp98UngA0Fu8ecL7-17" target="rzNtCp98UngA0Fu8ecL7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-18" value="Attendance Report Excel Sheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="170" width="60" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-21" value="&lt;br&gt;Export/Download Allowance Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-25" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="80" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-26" value="Lead" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-31" value="Fetch Access level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-32" value="Fetch Registered Users&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rzNtCp98UngA0Fu8ecL7-33" value="Fetch Report" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
